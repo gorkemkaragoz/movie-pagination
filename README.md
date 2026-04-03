@@ -1,6 +1,6 @@
 # 🎬 Movie Pagination API
 
-A hands-on Spring Boot project built to learn and practice pagination with a real movie dataset.
+A hands-on Spring Boot project built to learn and practice pagination with a movie dataset.
 
 ## Tech Stack
 - Java 21
